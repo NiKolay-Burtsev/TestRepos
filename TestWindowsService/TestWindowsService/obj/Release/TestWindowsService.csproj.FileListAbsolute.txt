@@ -1,0 +1,9 @@
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.exe.config
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.exe
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.pdb
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.csproj.AssemblyReference.cache
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.ProjectInstaller.resources
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.csproj.GenerateResource.cache
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.exe
+C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.pdb

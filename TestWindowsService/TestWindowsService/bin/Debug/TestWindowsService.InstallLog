@@ -1,0 +1,45 @@
+﻿Выполняется установка сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = C:\Users\sierr\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
