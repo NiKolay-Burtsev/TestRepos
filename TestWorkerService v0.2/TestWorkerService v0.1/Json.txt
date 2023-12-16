@@ -1,0 +1,18 @@
+﻿{
+  "Bot1": {
+    "FqdnName": "comp1.sns.gk",
+    "ServiceName": "Service.exe"
+  },
+  "Bot2": {
+    "FqdnName": "comp2.sns.gk",
+    "ServiceName": "Service.exe"
+  },
+  "Bot3": {
+    "FqdnName": "comp3.sns.gk",
+    "ServiceName": "Service.exe"
+  },
+  "Bot4": {
+    "FqdnName": "comp4.sns.gk",
+    "ServiceName": "Service.exe"
+  }
+}
